@@ -16,7 +16,7 @@ Looker Studio dashboard analyzing manufacturing sensor data
 
 
 ## 📊 Live Dashboard
-[View Interactive Dashboard]https://lookerstudio.google.com/reporting/71bb4cee-ce7b-4f66-ad6a-033422dfb92c
+https://lookerstudio.google.com/reporting/71bb4cee-ce7b-4f66-ad6a-033422dfb92c
 
 ## 🎯 Project Overview
 

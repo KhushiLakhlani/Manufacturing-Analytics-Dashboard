@@ -1,7 +1,7 @@
 # Manufacturing-Analytics-Dashboard
 Looker Studio dashboard analyzing manufacturing sensor data
 
-[!Dashboard]
+
 <img width="281" height="238" alt="1" src="https://github.com/user-attachments/assets/b4a36093-dda9-4541-b1c7-976674305372" />
 
 <img width="1436" height="766" alt="image" src="https://github.com/user-attachments/assets/2b2cdb30-a2df-4135-aaca-40ed79720003" />

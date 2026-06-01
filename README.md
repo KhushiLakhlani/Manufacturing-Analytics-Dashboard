@@ -90,9 +90,18 @@ jupyter notebook notebooks/01_etl_stage_classification.ipynb
 
 ## Dashboard
 
-[Live Looker Studio Dashboard](https://lookerstudio.google.com/reporting/71bb4cee-ce7b-4f66-ad6a-033422dfb92c)
+[Interactive Dashboard — Looker Studio (public, no login needed)](https://lookerstudio.google.com/reporting/71bb4cee-ce7b-4f66-ad6a-033422dfb92c)
 
-<!-- Add Power BI dashboard screenshots below -->
+Download the [Power BI file (.pbix)](dashboards/Manufacturing_Analytics_Dashboard.pbix) to explore all 3 interactive pages locally (requires Power BI Desktop).
+
+### Executive Summary
+![Executive Summary](dashboards/screenshots/executive_summary.png)
+
+### Sensor Deep Dive
+![Sensor Deep Dive](dashboards/screenshots/sensor_deep_dive.png)
+
+### Stage Performance
+![Stage Performance](dashboards/screenshots/stage_performance.png)
 
 ---
 
